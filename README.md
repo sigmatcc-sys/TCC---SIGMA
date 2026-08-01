@@ -11,7 +11,7 @@ Pedro Nunes Coelho Da Silva
 
 Luiz Guilherme Martins
 
-Curso e Turma: 3° DS - Turrma B
+Curso e Turma: 3° DS - Turma B
 
 Professor Orientador:
 
