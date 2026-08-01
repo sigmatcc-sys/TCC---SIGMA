@@ -33,4 +33,4 @@ Status atual do desenvolvimento:
 
 Link Protótipo: https://app.base44.com/apps/69ea1b723650ab27ba4b158a/editor/preview
 
-Link Wiki: https://github.com/sigmatcc-sys/TCC---SIGMA.wiki.git
+Link Wiki: https://github.com/sigmatcc-sys/TCC---SIGMA/wiki
