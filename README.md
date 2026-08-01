@@ -1,9 +1,14 @@
 # TCC-SIGMA
 Integrantes: 
+
 Marcus Oliver Cardoso da Silva 
+
 Phelipe Gabriel Frazão Silva  
+
 Lucas Godoy Gonçalves 
+
 Pedro Nunes Coelho Da Silva 
+
 Luiz Guilherme Martins
 
 Curso e Turma: 3° DS - Turrma B
