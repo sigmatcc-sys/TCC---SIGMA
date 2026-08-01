@@ -1,5 +1,6 @@
 # TCC-SIGMA
-Integrantes: Marcus Oliver Cardoso da Silva 
+Integrantes: 
+Marcus Oliver Cardoso da Silva 
 Phelipe Gabriel Frazão Silva  
 Lucas Godoy Gonçalves 
 Pedro Nunes Coelho Da Silva 
@@ -27,4 +28,4 @@ Status atual do desenvolvimento:
 
 Link Protótipo: https://app.base44.com/apps/69ea1b723650ab27ba4b158a/editor/preview
 
-Link Wiki:
+Link Wiki: https://github.com/sigmatcc-sys/TCC---SIGMA.wiki.git
