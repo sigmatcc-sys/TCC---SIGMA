@@ -37,6 +37,13 @@ Base44
 
 ## Status atual do desenvolvimento:  
 
+* Protótipo funcional desenvolvido;
+* Funcionalidades principais implementadas;
+* Testes de usabilidade realizados;
+* Validação positiva com usuários;
+* Ajustes identificados para melhoria de interface;
+
+
 ## Link Protótipo: 
 https://app.base44.com/apps/69ea1b723650ab27ba4b158a/editor/preview
 
